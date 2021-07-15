@@ -5,4 +5,5 @@
        revision="master"
        review="" />
   <project name="gzu-liyujiang/Android_CN_OAID.git" remote="github" />
+  <project name="kittinunf/fuel.git" remote="github" />
 </manifest>
