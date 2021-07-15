@@ -4,5 +4,8 @@
        fetch="https://github.com"
        revision="master"
        review="" />
-  <project name="/gzu-liyujiang/Android_CN_OAID.git" remote="github" />
+  <!-- <project name="/gzu-liyujiang/Android_CN_OAID.git" remote="github" /> -->
+  <project name="alibaba/git-repo-go" path="git-repo" groups="app">
+    <linkfile src="README.md" dest="README.md"></linkfile>
+  </project>
 </manifest>
